@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/hippocampus3282/<OWNER>/<OWNER>/gh_profile.raw "Header")]
+[![Header](https://raw.githubusercontent.com/hippocampus3282/<OWNER>/<OWNER>/gh_profile.jpg "Header")]
 
 ### Hi there 👋
 
