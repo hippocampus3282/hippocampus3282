@@ -1,6 +1,5 @@
-### Hi there 👋
----------------
 ![Header](https://github.com/hippocampus3282/hippocampus3282/blob/main/gh_profile.jpg)
+-------------------
 
 <!--
 **hippocampus3282/hippocampus3282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
