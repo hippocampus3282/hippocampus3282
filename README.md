@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippocampus3282&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Presentation
-I'm a software engineer in the making. Soon to complete the Software Engineering Fundamentals in [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo).
+I'm a software engineer in the making. Soon to complete the Software Engineering Foundations in [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo).
 
 <br>
 
