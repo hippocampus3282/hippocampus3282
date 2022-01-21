@@ -1,8 +1,8 @@
 ![Header](https://github.com/hippocampus3282/hippocampus3282/blob/main/gh_profile.jpg)
 
-[![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=hippocampus3282&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrton-hbtn&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippocampus3282&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrton-hbtn&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Presentation
 I'm a software engineer in the making. Soon to complete the Software Engineering Foundations in [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo).
