@@ -1,4 +1,4 @@
-![Header](https://github.com/hippocampus3282/hippocampus3282/blob/main/gh_profile.jpg)
+![Header](https://github.com/hippocampus3282/hippocampus3282/blob/main/professional_cover_image.png)
 
 [![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrton-hbtn&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
