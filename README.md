@@ -1,11 +1,12 @@
-![Header](https://github.com/hippocampus3282/hippocampus3282/blob/main/professional_cover_image.png)
+![Header](https://github.com/ayrton-hbtn/ayrton-hbtn/blob/main/professional_cover_image.png)
 
 [![Ayrton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrton-hbtn&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrton-hbtn&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Presentation
-I'm a software engineer in the making. Soon to complete the Software Engineering Foundations in [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo).
+[Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo) Foundations graduate March 2022 and Backend Specialization graduate July 2022.
+Currently working in a LogTech Company as backend developer. I code mostly in Python but know other languages too.
 
 <br>
 
@@ -25,12 +26,12 @@ I'm a software engineer in the making. Soon to complete the Software Engineering
 - Sorting Algorithms and Big O Notation
 
 ### Repos:
-- [Low level (C)](https://github.com/hippocampus3282/holbertonschool-low_level_programming)
-- [Stack/Queue](https://github.com/hippocampus3282/monty)
-- [printf](https://github.com/hippocampus3282/printf)
+- [Low level (C)](https://github.com/ayrton-hbtn/holbertonschool-low_level_programming)
+- [Stack/Queue](https://github.com/ayrton-hbtn/monty)
+- [printf](https://github.com/ayrton-hbtn/printf)
 - [Simple Shell](https://github.com/ralexrivero/simple_shell)
-- [Sorting algorithms](https://github.com/hippocampus3282/sorting_algorithms)
-- [Binary Trees](https://github.com/hippocampus3282/binary_trees)
+- [Sorting algorithms](https://github.com/ayrton-hbtn/sorting_algorithms)
+- [Binary Trees](https://github.com/ayrton-hbtn/binary_trees)
 
 <br>
 
@@ -42,11 +43,30 @@ I'm a software engineer in the making. Soon to complete the Software Engineering
 - Web Scraping
 
 ### Repos:
-- [Higher level](https://github.com/hippocampus3282/holbertonschool-higher_level_programming)
+- [Higher level](https://github.com/ayrton-hbtn/holbertonschool-higher_level_programming)
 
 ## Static website and back-end console with Python, HTML & CSS
 
-### [AirBnB_clone](https://github.com/hippocampus3282/AirBnB_clone)
+### [AirBnB_clone](https://github.com/ayrton-hbtn/AirBnB_clone_v3)
+
+<br>
+
+## Backend Specialization
+- MongoDB
+- Redis
+- Advanced SQL
+- Caching
+- Pagination
+- Python async/await
+- Basic User Session Authentication
+- UTF-8 encoding and more
+
+### Repos:
+- [Holberton School Backend](https://github.com/ayrton-hbtn/holbertonschool-backend)
+- [Python](https://github.com/ayrton-hbtn/holbertonschool-backend-python)
+- [ES6 & Node](https://github.com/ayrton-hbtn/holbertonschool-backend-javascript)
+- [User Data](https://github.com/ayrton-hbtn/holbertonschool-backend-user-data)
+- [Storage](https://github.com/ayrton-hbtn/holbertonschool-backend-storage)
 
 <br>
 
@@ -58,4 +78,4 @@ I'm a software engineer in the making. Soon to complete the Software Engineering
 - Web Infrastructure Design
 
 ### Repos:
-- [System Engineering & DevOps](https://github.com/hippocampus3282/holberton-system_engineering-devops)
+- [System Engineering & DevOps](https://github.com/ayrton-hbtn/holberton-system_engineering-devops)
