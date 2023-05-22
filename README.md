@@ -6,7 +6,7 @@
 
 # Presentation
 [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo) Foundations graduate March 2022 and Backend Specialization graduate July 2022.
-Currently working in a LogTech Company as backend developer. I code mostly in Python but know other languages too.
+Currently working in a LogTech Company as backend developer. I code mostly in Go and Python.
 
 <br>
 
