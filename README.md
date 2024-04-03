@@ -1,10 +1,7 @@
-![Header](https://github.com/protobon/protobon/blob/main/professional_cover_image.png)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protobon&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Presentation
 [Holberton School Uruguay](https://www.holbertonschool.com/campuses/montevideo) Foundations graduate March 2022 and Backend Specialization graduate July 2022.
-Currently working in a LogTech Company as backend developer. I code mostly in Go and Python.
 
 <br>
 
